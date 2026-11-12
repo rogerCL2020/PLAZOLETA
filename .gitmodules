@@ -1,0 +1,6 @@
+[submodule "ms-users"]
+	path = ms-users
+	url = https://github.com/rogerCL2020/ms-usuarios.git
+[submodule "ms-plazoleta"]
+	path = ms-plazoleta
+	url = https://github.com/rogerCL2020/ms-plazoleta.git
